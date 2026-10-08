@@ -1,4 +1,4 @@
-# Structured-programming-exercises-in-C
+# Structured-programming-exercise-in-C
 Crie a estrutura Contatos para o usuário cadastrar, via teclado, o nome, telefone e idade de n (também definido pelo usuário) pessoas. Após isso, implemente um algoritmo para mostrar a relação contendo o nome, telefone e idade das pessoas cadastradas e a média das idades com duas casas decimais. Além disso, exiba quantas pessoas são maiores de 18 anos e a pessoa mais VELHA. Vale ressaltar que a seguinte mensagem deve ser impressa "Nenhuma pessoa tem mais de 18 anos.", caso nenhuma pessoa maior de 18 anos seja cadastrada.
 
 IMPORTANTE: 
